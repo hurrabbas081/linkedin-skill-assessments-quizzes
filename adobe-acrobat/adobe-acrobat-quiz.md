@@ -10,7 +10,7 @@
 #### Q2. A PDF containing complex engineering drawings is failing to print completely. The printing device is an older model with a small amount of RAM. What setting might enable you to print the complex file without error?
 
 - [ ] Print as image
-- [ ] Auto-orientation
+- [y] Auto-orientation
 - [ ] Print in grayscale
 - [ ] Custom scale
 
